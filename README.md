@@ -8,4 +8,4 @@
 <p>The shelfs are campfire's so you just put the food on there and extinguish the fire with a splash potion of... water</p>
 
 # How To Make A Splash Potion Of Water (Incase You Don't Know How To)
-<img href="https://photos.app.goo.gl/CPEZDfnmGxkKy8aD7"></img>
+![Image of recipe](https://photos.app.goo.gl/CPEZDfnmGxkKy8aD7)
