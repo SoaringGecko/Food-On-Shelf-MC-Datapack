@@ -8,5 +8,5 @@
 <p>The shelfs are campfire's so you just put the food on there and extinguish the fire with a splash potion of... water</p>
 
 # How To Make A Splash Potion Of Water (Incase You Don't Know How To)
-It's just water in a bottle
+It's just water in a bottle with gunpowder
 ![Image of recipe](https://raw.githubusercontent.com/SoaringGecko/Food-On-Shelf-MC-Datapack/images/dfrgthyjuhngbfgtyuikj.png?token=ALUZMTHR5542S6I2QTCOESK577SP2)
