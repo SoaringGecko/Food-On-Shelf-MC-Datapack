@@ -16,4 +16,4 @@ It's just water in a bottle with gunpowder
 <p>It is currently only for 1.15.X</p>
 
 # why did you spell shelves wrong?
-<p>what do you mean? I did spelled it shelfs</p>
+<p>what do you mean? I did spell it shelfs</p>
