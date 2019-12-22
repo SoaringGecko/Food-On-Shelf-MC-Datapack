@@ -12,6 +12,10 @@
 It's just water in a bottle with gunpowder
 ![Image of recipe](https://github.com/SoaringGecko/Food-On-Shelf-MC-Datapack/blob/master/dfrgthyjuhngbfgtyuikj.png)
 
+# How Do I Get The Datapack File?
+![Image of recipe](https://github.com/SoaringGecko/Food-On-Shelf-MC-Datapack/blob/master/defrtgyuiytrefdgtrtf.png)
+![Image of recipe](https://github.com/SoaringGecko/Food-On-Shelf-MC-Datapack/blob/master/wert5yujhgffre45tygfd.png)
+
 # What Minecraft Version Is This For?
 <p>It is currently only for 1.15.X</p>
 
