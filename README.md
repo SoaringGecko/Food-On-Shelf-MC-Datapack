@@ -9,4 +9,4 @@
 
 # How To Make A Splash Potion Of Water (Incase You Don't Know How To)
 It's just water in a bottle with gunpowder
-![Image of recipe](https://raw.githubusercontent.com/SoaringGecko/Food-On-Shelf-MC-Datapack/master/dfrgthyjuhngbfgtyuikj.png?token=ALUZMTEA55SWIFSIUKJHATS577TPU)
+![Image of recipe](https://github.com/SoaringGecko/Food-On-Shelf-MC-Datapack/blob/master/dfrgthyjuhngbfgtyuikj.png)
