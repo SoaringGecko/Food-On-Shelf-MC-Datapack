@@ -12,6 +12,9 @@
 It's just water in a bottle with gunpowder
 ![Image of recipe](https://github.com/SoaringGecko/Food-On-Shelf-MC-Datapack/blob/master/dfrgthyjuhngbfgtyuikj.png)
 
+# what happens to the item if i take to long
+<p>If you leave an item you can't normally put on there it will eventually pop off. If it normally can be put on there... it'll cook it</p>
+
 # How Do I Get The Datapack File?
 ![Image of recipe](https://github.com/SoaringGecko/Food-On-Shelf-MC-Datapack/blob/master/defrtgyuiytrefdgtrtf.png)
 ![Image of recipe](https://github.com/SoaringGecko/Food-On-Shelf-MC-Datapack/blob/master/wert5yujhgffre45tygfd.png)
