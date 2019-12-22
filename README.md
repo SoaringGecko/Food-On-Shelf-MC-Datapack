@@ -11,3 +11,9 @@
 # How To Make A Splash Potion Of Water (Incase You Don't Know How To)
 It's just water in a bottle with gunpowder
 ![Image of recipe](https://github.com/SoaringGecko/Food-On-Shelf-MC-Datapack/blob/master/dfrgthyjuhngbfgtyuikj.png)
+
+# What Minecraft Version Is This For?
+<p>It is currently only for 1.15.X</p>
+
+# why did you spell shelves wrong?
+<p>what do you mean? I did spell it shelfs</p>
